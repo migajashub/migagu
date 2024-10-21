@@ -1,5 +1,24 @@
 *{margin:0; padding:0;}
 
-.bienvenida {
-    width: 80%
-}
+
+@media screen and (min-width: 900px) {
+
+    .bienvenida {
+      width: 1860px;
+      height: auto;
+  align-items: center;
+    }
+ 
+  }
+  
+
+  @media screen and (max-width: 899px) {
+
+    .bienvenida {
+      width: 800px;
+      height: auto;
+  align-items: center;
+    }
+ 
+  }
+  
