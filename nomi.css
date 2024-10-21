@@ -4,6 +4,10 @@
     display:inline-flex
 }
 
+.migagu img {
+    height:auto;
+    align-items:center
+}
 
 @media screen and (min-width: 900px) {
 
@@ -13,6 +17,10 @@
   align-items: center;
     }
  
+    .migagu img {
+        width:500px
+    }
+
   }
   
 
@@ -24,6 +32,10 @@
   align-items: center;
     }
  
+    .migagu img {
+        width:200px
+    }
+
   }
   
 
@@ -35,4 +47,9 @@
   align-items: center;
     }
  
+
+    .migagu img {
+        width:50px
+    }
+
   }
