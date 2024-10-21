@@ -33,23 +33,15 @@
     }
  
     .migagu img {
-        width:200px
+        width:500px
     }
 
   }
   
 
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 700px) {
 
-    .bienvenida img {
-      width: 200px;
-      height: auto;
-  align-items: center;
-    }
- 
-
-    .migagu img {
-        width:50px
-    }
+.bienvenida,migagu {
+    display:flex
 
   }
