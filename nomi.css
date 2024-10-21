@@ -3,8 +3,8 @@
 
 @media screen and (min-width: 900px) {
 
-    .bienvenida {
-      width: 500px;
+    .bienvenida img {
+      width: 900px;
       height: auto;
   align-items: center;
     }
@@ -14,8 +14,8 @@
 
   @media screen and (max-width: 899px) {
 
-    .bienvenida {
-      width: 200px;
+    .bienvenida img {
+      width: 500px;
       height: auto;
   align-items: center;
     }
