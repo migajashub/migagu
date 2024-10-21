@@ -1,5 +1,9 @@
 *{margin:0; padding:0;}
 
+.conchemimadre {
+    display:inline-flex
+}
+
 
 @media screen and (min-width: 900px) {
 
